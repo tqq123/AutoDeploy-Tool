@@ -1,0 +1,17 @@
+{
+  "name": "devOps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.1.1",
+    "inquirer": "^7.0.6",
+    "node-ssh": "^8.0.0"
+  }
+}
